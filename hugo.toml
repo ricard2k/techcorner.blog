@@ -1,0 +1,4 @@
+baseURL = 'https://techcorner.blog/'
+languageCode = 'en-ie'
+title = 'techcorner.blog'
+theme = 'ananke'

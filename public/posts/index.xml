@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on techcorner.blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on techcorner.blog</description>
+    <generator>Hugo</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Sat, 21 Sep 2024 09:59:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Over-Complication of Architectures: Why Simplicity Should Reign</title>
+      <link>http://localhost:1313/posts/why-simplicity-should-reign/</link>
+      <pubDate>Sat, 21 Sep 2024 09:59:18 +0100</pubDate>
+      <guid>http://localhost:1313/posts/why-simplicity-should-reign/</guid>
+      <description>Introduction In modern enterprise environments, software architectures are becoming increasingly complex. As businesses grow and their needs evolve, there’s a tendency to add more layers, technologies, and tools to meet every new requirement. This complexity often stems from the desire to accommodate diverse business cases, integrate legacy systems, and adopt the latest trends in software development. However, with each addition, the architecture can become more unwieldy, harder to maintain, and prone to inefficiencies.</description>
+    </item>
+  </channel>
+</rss>
