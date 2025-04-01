@@ -1,7 +1,7 @@
 +++
 title = 'The Over-Complication of Architectures: Why Simplicity Should Reign'
 date = 2024-09-21T09:59:18+01:00
-draft = true
+draft = false
 +++
 
 ## Introduction
